@@ -1,0 +1,23 @@
+---
+title: "Course Manual for Crafting Digital History \n HIST3814 @ Carleton U \n Summer 2017"
+author: "Shawn Graham"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: true
+github-repo: hist3814-summer2017/landing
+description: "Course Manual for HIST3814 Crafting Digital History @ Carleton University, Summer 2017"
+cover-image: images/pig.gif
+---
+# Welcome {-}
+
+This website serves as the course manual and syllabus for HIST3814, Summer 2017 at Carleton University. Non Carleton students are welcome to enrol via [eCampusOntario](http://ecampusontario.org), whose funding support for the development of this course is gratefully acknowledged.
+
+![British Library Flickr stream. ‘A screen-maker, possibly of the Dumna caste.’ Tashrih al-aqvam, an account of origins and occupations of some of the sects, castes and tribes of India https://www.flickr.com/photos/britishlibrary/12459538774/](images/loom.jpg)
+
+![Creative Commons License](images/by-nc-sa.png)  
+The online version of this manual is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

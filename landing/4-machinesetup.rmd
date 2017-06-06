@@ -1,0 +1,50 @@
+# Setting up your machine
+
+If you are on a Mac or Linux machine, doing digital history is *materially* much easier, as many things can be done at the terminal. If you're on Linux, I probably don't have to say anything further.
+
+On Mac, use your Finder to find the terminal program. On Windows, we can sometimes achieve the same thing via the 'command prompt' or with 'PowerShell'. However, I would recommend Windows users (and indeed, anyone else who is concerned that their machine might not be powerful enough, or are leery of installing things) to use our [DHBox](http://134.117.26.132:5000/). This is a virtual computer that you can log into via your browser (Chrome works best). **If you are not on campus, you must [use a VPN](http://carleton.ca/its/vpn/) to log into the DHBox**
+
+You use your Carleton email to log into the DHBox. Passwords will be sent to you. Your work will be saved in the virtual machine, although I strongly recommend you always push your work to your online repository.
+
+If you *don't* log in, you can still use the DHBox by using the username/password combination of `demonstration/demonstration`. **nb** the demo accounts shut down after an hour and will delete all work.
+
+DHBox comes with a variety of software already installed. All workbook materials are written with the assumption that you are using the DHBox. Typically, this means that the instructions will work without issue on a Mac as well.
+
+## Setting up video & annotation on your local machine
+We need to put some things on your machine that will enable me to understand what you are seeing and experiencing as you move through the course, should things not quite click for you.
+
+- [Screen-cast-o-matic](http://screencast-o-matic.com/) allows you to make quick videos. When something doesn't work, you can use this free software to make a video where you can talk me through what you are doing and where things are going wrong
+- [Hypothes.is](https://hypothes.is/) This is a plugin for [the Chrome browser](https://www.google.com/chrome/browser/desktop/index.html). Install both Chrome and Hypothes.is. With this plugin, you can highlight text in our [workbook](http://workbook.craftingdigitalhistory.ca) and so on and create an annotation that everyone can see. These annotations can have threaded conversations, so feel free to respond to others' annotations. In your readings, and in the workbook, highlight things that are confusing, or that work well, or that strike you as interesting because of x, y, z. Annotate things that you think might be useful in your other classes, too!
+
+## Setting up a community
+Then there is the problem of how do we make this feel like a class, with actual living humans in it, when it's all online?
+
+- A free account for Slack https://slack.com/ which handles our private communications. To sign up for Slack, you will receive via cuLearn a link to a private website into which you will enter your cumail email account. This will give you access to our Slack space. Information on what Slack is and how it works is available [here](https://slack.com/is).
+- An account on Github http://github.com; you will set this up on your own.
+- Twitter is optional, but most digital humanities / digital history folks are on there, and that’s where a lot of the field is discussed (look up Dan Cohen, the former executive director of the Digital Public Library of America, who maintains an excellent list; a great place to start!) Our course hashtag will be [#hist3814o](https://twitter.com/search?q=hist3814o&src=typd). Use that hashtag on any twitter posts you make related to the course.
+
+## Setting up a digital laboratory
+Finally, you will need a kind of 'digital laboratory' or 'workshop' for yourself. This is where your notebook will live (most likely, as a blog, although other platforms can work). I understand this to mean a kind of ecosystem of both offline and online spaces that interconnect, and enable us to work through the potentials of digital history.
+
+-  You will receive a code for a free one-year domain of your own hosted by [Reclaim Hosting](http://reclaimhosting.com). This code will be tied to your official Carleton email account. This webspace is yours to experiment with, but it will also host your own ‘digital history laboratory’. You will set this up on your own, as part of the initial exercises in this class. At the end of the calendar year, you can choose to renew (which costs $US 25) or you can cancel the account.
+
+While you will probably only use this space for hosting a blog and perhaps the exhibition software Omeka, you can also install things like OwnCloud, and set up your very own cloud file-sharing service, for instance. Having your own space, to do with as you wish, means you can install what you want - if you've used cuPortfolio, with Reclaim Hosting you can install the underlying Mahara platform yourself, and keep control over your own copy of those materials for instance.
+
+## Instructions and help
+
+Step by step instructions on getting all of this setup are in the workbook, on the '[Getting Started](http://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/)' page.
+
+## Checklist:
+
+Have you:
+
+- set up a hypothesis account?
+- installed the hypothesis plugin?
+- signed up for a free Github account?
+- gained access to Slack?
+- obtained a domain of your own from Reclaim Hosting?
+- Have you set up a blog there?
+
+ANNOTATE THIS PHRASE with an annotation that shares the link to your Github account and your Domain.
+
+Please also make a note of the course repositories at [https://github.com/craftingdigitalhistory/](https://github.com/craftingdigitalhistory/helpful-things/blob/master/weekly-template.md) and at [https://github.com/shawngraham/hist3814o](https://github.com/shawngraham/hist3814o). I encourage you to 'fork' (or take a copy) of these for your future reference.

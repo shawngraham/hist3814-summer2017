@@ -1,0 +1,26 @@
+# Code of Conduct
+
+It is easy to misjudge communication in a fully online course. Our interactions are mediated by the screen; there can be a real sense of disconnect, that the username on the other end is not really a person. For this class to work, we have to maintain high standards of mutual respect, appropriate behaviour, and generous interaction. Just because we're interacting through a screen doesn't mean we're not real, right?
+
+The best piece of advice I ever heard about working in an academic environment (and I wish I had the source), was:
+
+>'We are all smart here. Distinguish yourself by being kind'
+
+By 'kindness', I take to mean, assuming the best of the other person you are dealing with. It might sound corny and naive, but if you put the needs of your peers with whom you are working ahead of your own, you both will win (there's actually game-theoretic research that shows this too; look up the iterated prisoner's dilemma).
+
+But, it might be helpful to spell out how this all works (riffing on & reproducing some of GeekFeminism's [Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)). So, please avoid and refrain from making:
+
+- offensive comments related to race, gender, origin, sexual orientation, disability,religion, physical appearance
+- gratuitous sexual imagery (whether written or images)
+- threats
+- encouragement to perform violence or self-harm
+- intimidation, stalking, following
+- sustained disruption of conversations
+- unwelcome sexual attention, or patterns of inappropriate/unwanted social contact
+- publication of private communication
+- continued communication one-on-one after receiving a request to stop.
+
+... basically, be kind, be generous, support each other.
+
+ANNOTATE THIS PHRASE indicating that you have read and agreed to abide by the Code of Conduct.
+
