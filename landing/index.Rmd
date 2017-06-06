@@ -9,7 +9,7 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: true
-github-repo: hist3814-summer2017/landing
+github-repo: shawngraham/hist3814-summer2017/landing
 description: "Course Manual for HIST3814 Crafting Digital History @ Carleton University, Summer 2017"
 cover-image: images/pig.gif
 ---

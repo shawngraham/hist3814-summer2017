@@ -49,7 +49,7 @@ Digital history is not done in isolation. In contrast to other courses you may h
 
 This collaborative community building can also happen in our private Slack space. Maybe you organize folks into a reading group. Maybe you set up a group video-chat session. All these things create a cohesive group, and I will be watching for evidence of this.
 
-**Unacknowledged help or unacknowledged collaborative work will be grounds for unsatisfactory work.**
+**Unacknowledged help or unacknowledged collaboration will be grounds for determining unsatisfactory work.**
 
 ## Final project
 The final project will have two parts:
@@ -72,7 +72,7 @@ Your paradata document should have the following sections ([as discussed in the 
 
 >Implementation; Aims and Methods; Research Sources; Documentation; Sustainability; and Access
 
-My strategy here is two-fold. I recognize that sometimes, a project fails to come together. I believe in '[productive failure](/productivefail)', where we learn from what works and what doesn't work. **I want to explicitly signal to you that it is safe to try something here that might not get to where you want it to go - and that's ok**. As an example, let me share with you '[How I lost the crowd](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/)', a piece where a public digital history work of my own fell to pieces - and how I salvaged worth from it. (As an example of 'paradata' it's not strictly speaking as formal as I want from you.)
+My strategy here is two-fold. I recognize that sometimes, a project fails to come together. I believe in '[productive failure](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology)', where we learn from what works and what doesn't work. **I want to explicitly signal to you that it is safe to try something here that might not get to where you want it to go - and that's ok**. As an example, let me share with you '[How I lost the crowd](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/)', a piece where a public digital history work of my own fell to pieces - and how I salvaged worth from it. (As an example of 'paradata' it's not strictly speaking as formal as I want from you.)
 
 
 ## Real Names Policy ##
@@ -87,9 +87,15 @@ You do not need to use your real name or identity on any public-facing work that
 
 If you have demonstrated to me that you have satisfactorily met the criteria detailed above in the rubric (which map to the learning objectives for this course), you will receive an A. If you demonstrate that you have satisfied four of the five criteria, then you will receive a B. Three of the five: a C. Two of the five: a D. One of the five: an F.
 
-Note that 'satisfactorily' meeting the criteria means completing *all* of the work that I have set for you. Note also that you have the power to determine **how much** work that actually is, **provided that you can justify why you haven't pushed further**. That is, I will look at your fail logs and your notebooks to determine whether or not the module exercises were challenging for you. It is thus in your best interest to keep careful and complete fail logs and notebooks as you do both the modules AND your final project. I can only grade **where the evidence exists**.  
+Note that 'satisfactorily' meeting the criteria means completing *all* of the work that I have set for you. If work is missing (see the next section), I will adjust your grade lower accordingly.
+
+Note also that you have the power to determine **how much** work that actually is, **provided that you can justify why you haven't pushed further**. That is, I will look at your fail logs and your notebooks to determine whether or not the module exercises were challenging for you. It is thus in your best interest to keep careful and complete fail logs and notebooks as you do both the modules AND your final project. I can only grade **where the evidence exists**.  
 
 In exceptional cases, where the work completed goes above and beyond, an A+ may be possible.
+
+We all come to digital work with differing degrees of digital literacy. By framing assessment as 'satisfactory' I recognize that each of you are different, and I assess you against your own starting point and your own growth.
+
+You will receive feedback and be in communication with me and with our TA throughout the course; our feedback will help you grow.
 
 ## Submitting evidence
 
@@ -100,6 +106,8 @@ b) appropriate links in your notebook
 c) appropriate links to annotations.
 
 The first exercises in the [workbook](http://workbook.craftingdigitalhistory.ca) will walk you through setting up your notebook and fail log.
+
+Because of the compressed schedule of a summer course, work that is submitted late will be considered **not completed**; you will have a get-out-of-jail-card-free for ONE module's work only. IE, for whatever reason, you couldn't get module 3 done nor module 4. You soldier on and submit late either module 3 OR module 4, selecting the better of the two and invoke the card with an email to me. Note that it is always possible to consider why things haven't come together in one's notebook.
 
 ## Schedule and due dates
 
