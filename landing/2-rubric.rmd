@@ -101,18 +101,18 @@ c) appropriate links to annotations.
 
 The first exercises in the [workbook](http://workbook.craftingdigitalhistory.ca) will walk you through setting up your notebook and fail log.
 
-## Schedule and Due dates
+## Schedule and due dates
 
 This course runs from July 4th to August 16th.
 Weekly reports due by Midnight, Sunday.
 
-July 4 - 9: Getting Up and Running. Complete 'Getting Started' in the Workbook.
-July 10 - 16: Module 1 Open Access Research.
-July 17 - 23: Module 2 Finding Data
-July 24 - 30: Module 3 Fixing Data
-July 31 - Aug 6: Module 4 analysis
-Aug 7 - Aug 13: Project Work & Visualization
-Aug 16th, midnight: submit final project
+- July 4 - 9: Getting Up and Running. Complete 'Getting Started' in the Workbook.
+- July 10 - 16: Module 1 Open Access Research.
+- July 17 - 23: Module 2 Finding Data
+- July 24 - 30: Module 3 Fixing Data
+- July 31 - Aug 6: Module 4 analysis
+- Aug 7 - Aug 13: Project Work & Visualization
+- Aug 16th, midnight: submit final project
 
 
 ## Workbook structure
