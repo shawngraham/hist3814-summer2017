@@ -13,7 +13,7 @@ bookdown::gitbook:
   config:
     toc:
       number_sections: null
-      collapse: subsection
+      collapse: section
       before: |
         <li><a href="./">Crafting DH</a></li>
       after: |
