@@ -1,7 +1,7 @@
 # Contact Details
 
 ## Shawn Graham
-Associate Prof of Digital Humanities, on Twitter [@electricarchaeo](http://twitter.com/electricarchaeo)
+Associate Prof of Digital Humanities, on Twitter [\@electricarchaeo](http://twitter.com/electricarchaeo)
 - research blog at [electric archaeology](http://electricarchaeology.ca)
 - open notebook at [shawngraham.github.io](http://shawngraham.github.io)
 - office at PA 406

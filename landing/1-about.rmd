@@ -1,7 +1,7 @@
 #First Things First
 Taught by Shawn Graham, this course introduces method and theory for digital history. This site acts as the course handbook and syllabus. READ EVERYTHING. 
 
-The workbook may be found at the workbook page. Contact info for Dr. Graham is [here](8-contact.rmd). 
+The workbook may be found at the workbook page. Contact info for Dr. Graham is [here](contact-details.html). 
 
 How do we find, analyze, and visualize the patterns in historical data? Is the internet a historical source? How do people talk about history online? Is Google changing our historical consciousness? What happens when people off-load their historical memory to Wikipedia? How do we regain control over our digital identity as historians? What does open access research mean for me? What happens when digital memory is under assault?
 
