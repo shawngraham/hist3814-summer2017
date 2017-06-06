@@ -7,7 +7,7 @@ How do we find, analyze, and visualize the patterns in historical data? Is the i
 
 Through a series of skill-building exercises and collaborative work, we will build our way towards some answers.
 
-Oh, that tool bar on the right of the screen? That lets you annotate this site with questions and observations. Highlight THIS PHRASE right now, select 'annotate' and leave a note introducing yourself! Then, as you read the syllabus, annotate those parts that excite you, or puzzle you. Respond to others' posts. This is part of the first weeks' work.
+Oh, that tool bar on the right of the screen? That lets you annotate this site with questions and observations. Highlight THIS PHRASE right now, select 'annotate' and leave a note introducing yourself! Then, as you read the syllabus, annotate those parts that excite you, or puzzle you. Respond to others' posts. This is part of the first week's work.
 
 Across the top of the screen are buttons that allow you to change the site theme, to ease readability; also, there are download buttons for a PDF and Epub version of this manual, for printing out or reading offline if you desire. Finally, there is an edit button that allows you (once you have a [Github](http://github.com) account) to take a copy of this site for your own remixing.
 
