@@ -15,7 +15,7 @@ bookdown::gitbook:
       number_sections: null
       collapse: section
       before: |
-        <li><a href="./">Crafting DH</a></li>
+        <li><a href="http://site.craftingdigitalhistory.ca">Crafting DH</a></li>
       after: |
         <li><a href="https://creativecommons.org/licenses/by/4.0/" target="blank">CC-BY 4.0</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Made with bookdown</a></li>
