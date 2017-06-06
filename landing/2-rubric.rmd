@@ -62,9 +62,9 @@ The final project will have two parts:
 **There is no midterm.**
 
 ### More about the Final Project
-Your final project will take as its source material some 1500 editions of The Shawville Equity, an English newspaper published in Western Quebec, from 1883 to the present day. Begin thinking now about the kinds of history or the historical questions for which such information might be suitable.
+Detailed instructions for the Final Project [may be found here](final-project-1.html). Your final project will take as its source material some 1500 editions of The Shawville Equity, an English newspaper published in Western Quebec, from 1883 to the present day. Begin thinking now about the kinds of history or the historical questions for which such information might be suitable.
 
-Paradata' is a description of the 'how' and 'why' of what you're doing (see also the 'when things go wrong' section on the [detailed instructions](/finalproject)). A formal discussion of what paradata do from the [London Charter](http://www.londoncharter.org/introduction.html):
+Paradata' is a description of the 'how' and 'why' of what you're doing (see also the 'when things go wrong' section on the [detailed instructions](final-project-1.html)). A formal discussion of what paradata do from the [London Charter](http://www.londoncharter.org/introduction.html):
 
 >Documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of computer-based visualisation should be disseminated in such a way that the relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes can be understood.
 
@@ -125,7 +125,7 @@ Weekly reports due by Midnight, Sunday.
 
 ## Workbook structure
 
-The modules in the course are built around the progressive steps of working with big data:
+The workbook may be found at [workbook.craftingdigitalhistory.ca](http://workbook.craftingdigitalhistory.ca). The modules in the course are built around the progressive steps of working with big data:
 
 - Principles of open access research and your digital identity
 - Finding Data

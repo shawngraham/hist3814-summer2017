@@ -6,7 +6,7 @@ On Mac, use your Finder to find the terminal program. On Windows, we can sometim
 
 You use your Carleton email to log into the DHBox. Passwords will be sent to you. Your work will be saved in the virtual machine, although I strongly recommend you always push your work to your online repository.
 
-If you *don't* log in, you can still use the DHBox by using the username/password combination of `demonstration/demonstration`. **nb** the demo accounts shut down after an hour and will delete all work.
+If you *don't* log in, you can still use the DHBox by using the username/password combination of `demonstration/demonstration`. **nb** the demo accounts shut down after an hour and will delete all work. (Should there be a problem with our DHBox, you can log into the demo box at [Dhbox.org](http://dhbox.org) but remember the time limit).
 
 DHBox comes with a variety of software already installed. All workbook materials are written with the assumption that you are using the DHBox. Typically, this means that the instructions will work without issue on a Mac as well.
 
@@ -46,5 +46,3 @@ Have you:
 - Have you set up a blog there?
 
 ANNOTATE THIS PHRASE with an annotation that shares the link to your Github account and your Domain.
-
-Please also make a note of the course repositories at [https://github.com/craftingdigitalhistory/](https://github.com/craftingdigitalhistory/helpful-things/blob/master/weekly-template.md) and at [https://github.com/shawngraham/hist3814o](https://github.com/shawngraham/hist3814o). I encourage you to 'fork' (or take a copy) of these for your future reference.
