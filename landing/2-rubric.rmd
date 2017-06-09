@@ -135,6 +135,7 @@ The workbook may be found at [workbook.craftingdigitalhistory.ca](http://workboo
 - Visualizing (graphing, writing, plotting, mapping) data patterns, or communicating the compelling story
 
 These modules are built around the following ideas:
+
 - Identify and define the limitations of useful sources of historical data online
 - Compare and employ appropriate tools to clean and manipulate this data with a critical eye to how the tools themselves are theory-laden
 - Analyze data using various tools with an awareness of the tendency of tools to push towards various historiographic or epistemic perspectives (ie, the ‘procedural rhetorics’ of various tools)

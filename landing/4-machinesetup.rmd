@@ -2,7 +2,7 @@
 
 If you are on a Mac or Linux machine, doing digital history is *materially* much easier, as many things can be done at the terminal. If you're on Linux, I probably don't have to say anything further.
 
-On Mac, use your Finder to find the terminal program. On Windows, we can sometimes achieve the same thing via the 'command prompt' or with 'PowerShell'. However, I would recommend Windows users (and indeed, anyone else who is concerned that their machine might not be powerful enough, or are leery of installing things) to use our [DHBox](http://134.117.26.132:5000/). This is a virtual computer that you can log into via your browser (Chrome works best). **If you are not on campus, you must [use a VPN](http://carleton.ca/its/vpn/) to log into the DHBox**
+On Mac, use your Finder to find the terminal program. On Windows, we can sometimes achieve the same thing via the 'command prompt' or with 'PowerShell'. However, I would recommend Windows users (and indeed, anyone else who is concerned that their machine might not be powerful enough, or are leery of installing things) to use our [DHBox](http://134.117.26.132:5000/). This is a virtual computer that you can log into via your browser (Chrome works best). **If you are not on campus, you must [use a VPN](http://carleton.ca/its/vpn/) to log into the DHBox**. The link will not work unless you are either on campus or connected to campus via the VPN.
 
 You use your Carleton email to log into the DHBox. Passwords will be sent to you. Your work will be saved in the virtual machine, although I strongly recommend you always push your work to your online repository.
 
