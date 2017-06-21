@@ -117,24 +117,32 @@ This course runs from July 4th to August 16th.
 Weekly reports due by Midnight, Sunday.
 
 - July 4 - 9: Getting Up and Running. Complete 'Getting Started' in the Workbook.
-- July 10 - 16: Module 1 Open Access Research.
+- July 10 - 16: Module 1 Open Access Research
 - July 17 - 23: Module 2 Finding Data
 - July 24 - 30: Module 3 Fixing Data
 - July 31 - Aug 6: Module 4 analysis
 - Aug 7 - Aug 13: Project Work & Visualization
 - Aug 16th, midnight: submit final project
 
+### Overview of work to be done/submitted
+
++ Getting Started: Setup, Initial blog post, Annotations		
++ Module 1: Blog post re readings, blog post re exercises, Fail logs, Annotations
++ Module 2: Blog post re readings, blog post re exercises, Fail logs, Annotations
++ Module 3: Blog post re readings, blog post re exercises, Fail logs, Annotations
++ Module 4: Blog post re readings, blog post exercises, Fail logs, Annotations
++ Module 5:	Final Blog Post			
++ Final Project: Paradata document,	Project repo, Project itself	
 
 ## Workbook structure
 
 The workbook may be found at [workbook.craftingdigitalhistory.ca](http://workbook.craftingdigitalhistory.ca). The modules in the course are built around the progressive steps of working with big data:
 
-- Principles of open access research and your digital identity
-- Finding Data
-- ‘Wrangling’ Data, or getting it into useable shape
-- First Questions, or where are the holes and assumptions in your data?
-- Analyzing data, or matching the appropriate tool to the question
-- Visualizing (graphing, writing, plotting, mapping) data patterns, or communicating the compelling story
+- Module 1 Principles of open access research and your digital identity
+- Module 2 Finding Data
+- Module 3 ‘Wrangling’ Data, or getting it into useable shape
+- Module 4 Analyzing data, or matching the appropriate tool to the question
+- Module 5 Visualizing (graphing, writing, plotting, mapping) data patterns, or communicating the compelling story
 
 These modules are built around the following ideas:
 
