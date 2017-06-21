@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.24)  8 JUN 2017 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.24)  21 JUN 2017 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -946,48 +946,48 @@ Chapter 2.
 
 ]
 Chapter 3.
-[21] [22]
+[21] [22] [23] [24
+
+]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 939.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 968.
 
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [23
-
-] [24]
+) [25] [26]
 Chapter 5.
-[25
+[27
 
-] [26
+] [28
 
 ]
 Chapter 6.
-[27] [28]
+[29] [30]
 Chapter 7.
-[29
+[31
 
-] [30
+] [32
 
 ]
 Chapter 8.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1306.
-[31]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1306.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1335.
+[33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1335.
 (./craftingdigitalhistory2017.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1306.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1306.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1335.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1335.
 
 Package rerunfilecheck Info: File `craftingdigitalhistory2017.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 965730AE25FB829A1732057BD029C1FF;6397.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1306.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1335.
  ) 
 Here is how much of TeX's memory you used:
- 12696 strings out of 494501
- 184784 string characters out of 6167030
+ 12700 strings out of 494501
+ 184820 string characters out of 6167030
  282169 words of memory out of 5000000
  15582 multiletter control sequences out of 15000+600000
- 63886 words of font info for 100 fonts, out of 8000000 for 9000
+ 64016 words of font info for 101 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  32i,5n,35p,400b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/l
@@ -1000,10 +1000,10 @@ ist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015basic/texmf-dist/f
 onts/type1/public/lm/lmri12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/
 type1/public/lm/lmro10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1
 /public/lm/lmtt10.pfb>
-Output written on craftingdigitalhistory2017.pdf (31 pages, 374940 bytes).
+Output written on craftingdigitalhistory2017.pdf (33 pages, 376169 bytes).
 PDF statistics:
- 492 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
- 106 named destinations out of 1000 (max. 500000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 108 named destinations out of 1000 (max. 500000)
  12619 words of extra memory for PDF output out of 14400 (max. 10000000)
 

@@ -7,9 +7,20 @@ _ie, you conceive, create, document, a work of digital history that_ visualizes 
 
 The actual _form_ of the project is up to you: but the key element is that the form you select should follow the function. Some kinds of analyses are better suited to the visual stylings of an infographic; others would be best explicated using a kind of long-form mixture of text and visuals; still others might be best represented via an interactive map or a hand-held locative app.
 
+The project will revolve around the hastily-scanned editions of the Shawville Equity held in the Quebec Provincial Archives. You can find this data [here](http://collections.banq.qc.ca:8008/jrn03/equity/src/). The [Shawville Equity](http://theequity.ca/) is a weekly newspaper published in Shawville Quebec. It has published continuously since 1883, when it was first published in the county seat, Bryson. 
+
+Remember:
+
+The final project will have two parts:
+
++ an analysis (a work of digital history) of the provided digital dataset using at least two or more techniques/tools that you learned in the exercises. This analysis has to be available on the web, with your data and methods fully documented such that someone else could undertake the analysis for themselves.
+
++ a ‘paradata’ essay (or video, or other digital form) that reflects on your growth as a historian over the term with reference to the analysis in 1.
+nb the final project may be submitted at any time up to midnight on the very last day of the course. Since the work will live on the web, you submit by sending me an email with ‘Final Project HIST3814o - submitted’ as the subject. I will make an archival copy of that project the following day. More information on the final project will be provided below.
+
 ## Data/Capta
 
-Johanna Drucker exhorts us to remember that 'data' are actually 'capta', that is, they are not 'things given', but rather 'things captured', as it were. (I will use the two terms interchangeably, depending on my mood). We will be working this summer with the digitized editions of the Shawville Equity, from 1883 - 2010. How was this data captured? By what process? To what end? Who paid? _Cui bono_?
+Johanna Drucker exhorts us to remember that 'data' are actually 'capta', that is, they are not 'things given', but rather 'things captured', as it were. (I will use the two terms interchangeably, depending on my mood). With regard to The Equity: How was this data captured? By what process? To what end? Who paid? _Cui bono_?
 
 ## Analysis
 
