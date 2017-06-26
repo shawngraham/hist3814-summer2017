@@ -1,20 +1,39 @@
 # Setting up your machine
 
-If you are on a Mac or Linux machine, doing digital history is *materially* much easier, as many things can be done at the terminal. If you're on Linux, I probably don't have to say anything further.
+The [workbook, 'getting yourself ready'](http://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/#getting-yourself-ready-july-4th-9th) contains detailed instructions on how to get your workspace set up. You will begin your course work in that section.
 
-On Mac, use your Finder to find the terminal program. On Windows, we can sometimes achieve the same thing via the 'command prompt' or with 'PowerShell'. However, I would recommend Windows users (and indeed, anyone else who is concerned that their machine might not be powerful enough, or are leery of installing things) to use our [DHBox](http://134.117.26.132:5000/). This is a virtual computer that you can log into via your browser (Chrome works best). **If you are not on campus, you must [use a VPN](http://carleton.ca/its/vpn/) to log into the DHBox**. The link will not work unless you are either on campus or connected to campus via the VPN.
+Since you all are coming to this class with differing levels of digital literacy, different computers, and different operating systems, I have standardised things by putting together a virtual computer for you called 'DHBox' ('digital humanities box'). 
 
-You use your Carleton email to log into the DHBox. Passwords will be sent to you. Your work will be saved in the virtual machine, although I strongly recommend you always push your work to your online repository.
+You access it through your webbrowser, at [this location](http://134.117.26.132:5000/). The chrome browser works best with our DHBox. **If you are not on campus, you must [Carleton's VPN service](http://carleton.ca/its/vpn/) to log into the DHBox**. The link will not work unless you are either on campus or connected to campus via the VPN. If you click on the link to our DHBox and nothing happens, you need to follow the link to the Carleton VPN, install the vpn, connect, and _then_ follow the link.
 
-If you *don't* log in, you can still use the DHBox by using the username/password combination of `demonstration/demonstration`. **nb** the demo accounts shut down after an hour and will delete all work. (Should there be a problem with our DHBox, you can log into the demo box at [Dhbox.org](http://dhbox.org) but remember the time limit).
+![The welcome screen for DHBox. Note the complete url.](images/dhbox.png)
 
-DHBox comes with a variety of software already installed. All workbook materials are written with the assumption that you are using the DHBox. Typically, this means that the instructions will work without issue on a Mac as well.
+Click on the 'sign up' box.
+
+![The DHBox signup screen](images/dhboxsignup.png)
+
+Select the 4 week option. This creates a DHBox for you that will *persist* for four weeks. Everytime you log back into the DHBox, it will tell you how many days/hours/minutes you have left. When the time is almost set to run out, you can always download your materials, sign up for another four weeks, and re-upload them. The reason there is an expiry date is so that we do not clog up memory and resources on the server that hosts our virtual computer. **Be mindful of the expiry date of your DHBox!**. 
+
+![DHBox login screen for already created accounts](images/dhboxlogin.png)
+
+When you come back to your DHBox, click 'login' at the right hand side to log into your DHBox. 
+
+![Finding your command line, or RStudio, etc, in DHBox once you've logged in](images/dhboxreturnfindapps.png)
+
+We will be using the 'file manager', the 'command line', and 'R Studio' most often in HSIT3814.
+
+![The 'applications' in DHBox](images/dhbox-apps.png)
+
+When you click on an app - in the picture below, the command line - DHBox will ask for your username and password again. Enter that information.
+
+![The Command Line in DHBox](images/dhboxcommandline.png)
+
 
 ## Setting up video & annotation on your local machine
 We need to put some things on your machine that will enable me to understand what you are seeing and experiencing as you move through the course, should things not quite click for you.
 
 - [Screen-cast-o-matic](http://screencast-o-matic.com/) allows you to make quick videos. When something doesn't work, you can use this free software to make a video where you can talk me through what you are doing and where things are going wrong
-- [Hypothes.is](https://hypothes.is/) This is a plugin for [the Chrome browser](https://www.google.com/chrome/browser/desktop/index.html). Install both Chrome and Hypothes.is. With this plugin, you can highlight text in our [workbook](http://workbook.craftingdigitalhistory.ca) and so on and create an annotation that everyone can see. These annotations can have threaded conversations, so feel free to respond to others' annotations. In your readings, and in the workbook, highlight things that are confusing, or that work well, or that strike you as interesting because of x, y, z. Annotate things that you think might be useful in your other classes, too!
+- [Hypothes.is](https://hypothes.is/) This is a plugin for [the Chrome browser](https://www.google.com/chrome/browser/desktop/index.html). Install both Chrome and Hypothes.is. With this plugin, you can highlight text in our [workbook](http://workbook.craftingdigitalhistory.ca) and so on and create an annotation that everyone can see. These annotations can have threaded conversations, so feel free to respond to others' annotations. In your readings, and in the workbook, highlight things that are confusing, or that work well, or that strike you as interesting because of x, y, z. Annotate things that you think might be useful in your other classes, too! More information about Hypothesis is provided in the getting started section of the workbook.
 
 ## Setting up a community
 Then there is the problem of how do we make this feel like a class, with actual living humans in it, when it's all online?
@@ -32,7 +51,7 @@ While you will probably only use this space for hosting a blog and perhaps the e
 
 ## Instructions and help
 
-Step by step instructions on getting all of this setup are in the workbook, on the '[Getting Started](http://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/)' page.
+Step by step detailed instructions on getting all of this setup are in the workbook, on the '[Getting Started](http://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/)' page. You should begin the course by working through that section, once you've finished going through this course manual.
 
 ## Checklist:
 
@@ -43,6 +62,5 @@ Have you:
 - signed up for a free Github account?
 - gained access to Slack?
 - obtained a domain of your own from Reclaim Hosting?
-- Have you set up a blog there?
 
 ANNOTATE THIS PHRASE with an annotation that shares the link to your Github account and your Domain.

@@ -1,5 +1,12 @@
 #Rubric and Assessment
 
++ Coursework: 65%
++ Final Project: 20%
++ Community: 15%
+
++ All work indicated in each section of the workbook under 'What you need to do each week' has to be completed.
++ All work has to be completed to a satisfactory level, per the criteria below.
+
 By the end of this course, you should be able to do the following:
 
 1. Understand how to use the idea of '[the productive fail](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology/)' to use computing power effectively as an historian;
@@ -8,7 +15,7 @@ By the end of this course, you should be able to do the following:
 4. Weigh the evidence appropriately, understanding how it was created, in order to communicate the compelling story
 5. Understand the ways digital tools change us as we use them, to create compelling history that is self-reflexive
 
-These objectives map against the criteria for your final grade like this:
+These objectives map against the criteria for your coursework and final project grades like this:
 
 | Absent 	| Criteria              	| Present 	|
 |----------	|-----------------------	|----------	|
@@ -32,7 +39,7 @@ Each week, you will complete (with certain caveats, as detailed in the [workbook
 1. exercises **that are appropriate to your tech level**. How do you know if it was appropriate? If the exercise was easy, then you do the next one. You *push* yourself until you get to the point where you are stumped. You will keep a fail log and an online notebook for the exercises. The point here is not to stump you, but to push you from your current comfort level.
 2. collaborative reading assignments, which you will demonstrate that you have done via collaborative web annotations of either the fail logs, notebooks, or assigned readings. Exercises are organized by modules, and the sequence of modules reflects the sequence of doing digital history.
 
-**nb** there must be evidence from each module that you have fully engaged with the exercises and the collaborative reading. How to demonstrate this evidence will be covered below. A checklist of what should be completed by when is provided below. Work **must** be completed in a timely manner. Follow, and keep to, the schedule. For your information, here are the [instructions I give to TAs](https://gist.github.com/shawngraham/03901b4226352c4a6ef1cc69313e9783) who help grade this course.
+**nb** there must be evidence from each module that you have fully engaged with the exercises and the collaborative reading. How to demonstrate this evidence will be covered below. A checklist of what should be completed by when is provided below. Work **must** be completed in a timely manner. Follow, and keep to, the schedule. 
 
 ### More about the fail log and notebook
 You will keep the fail log in a repository on **Github** that details the work you do for each module. What can go into this? Everything and anything. Files you create. Notes you make to yourself on how to use a particular tool. Random thoughts as they occur. [Here is an example for you to refer to](https://github.com/shawngraham/example-faillog-hist3814).
@@ -63,7 +70,6 @@ The final project will have two parts:
 
 **There is no midterm.**
 
-### More about the Final Project
 Detailed instructions for the Final Project [may be found here](final-project-1.html). Your final project will take as its source material some 1500 editions of The Shawville Equity, an English newspaper published in Western Quebec, from 1883 to the present day. Begin thinking now about the kinds of history or the historical questions for which such information might be suitable.
 
 Paradata' is a description of the 'how' and 'why' of what you're doing (see also the 'when things go wrong' section on the [detailed instructions](final-project-1.html)). A formal discussion of what paradata do from the [London Charter](http://www.londoncharter.org/introduction.html):
@@ -76,7 +82,6 @@ Your paradata document should have the following sections ([as discussed in the 
 
 My strategy here is two-fold. I recognize that sometimes, a project fails to come together. I believe in '[productive failure](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology)', where we learn from what works and what doesn't work. **I want to explicitly signal to you that it is safe to try something here that might not get to where you want it to go - and that's ok**. As an example, let me share with you '[How I lost the crowd](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/)', a piece where a public digital history work of my own fell to pieces - and how I salvaged worth from it. (As an example of 'paradata' it's not strictly speaking as formal as I want from you.)
 
-
 ## Real Names Policy ##
 
 You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me that you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:
@@ -84,20 +89,6 @@ You do not need to use your real name or identity on any public-facing work that
  'I would like to use the following username in all public-facing work: xxxxxxxx'
 
  ...where xxxxx is the name you have selected. For safety's sake, if you decide to use a pseudonym, do **not** use one that you have used on any other website or social media platform.
-
-## Calculating the final grade
-
-If you have demonstrated to me that you have satisfactorily met the criteria detailed above in the rubric (which map to the learning objectives for this course), you will receive an A. If you demonstrate that you have satisfied four of the five criteria, then you will receive a B. Three of the five: a C. Two of the five: a D. One of the five: an F.
-
-Note that 'satisfactorily' meeting the criteria means completing *all* of the work that I have set for you. If work is missing (see the next section), I will adjust your grade lower accordingly.
-
-Note also that you have the power to determine **how much** work that actually is, **provided that you can justify why you haven't pushed further**. That is, I will look at your fail logs and your notebooks to determine whether or not the module exercises were challenging for you. It is thus in your best interest to keep careful and complete fail logs and notebooks as you do both the modules AND your final project. I can only grade **where the evidence exists**.  
-
-In exceptional cases, where the work completed goes above and beyond, an A+ may be possible.
-
-We all come to digital work with differing degrees of digital literacy. By framing assessment as 'satisfactory' I recognize that each of you are different, and I assess you against your own starting point and your own growth.
-
-You will receive feedback and be in communication with me and with our TA throughout the course; our feedback will help you grow.
 
 ## Submitting evidence
 
@@ -110,6 +101,8 @@ c) appropriate links to annotations.
 The first exercises in the [workbook](http://workbook.craftingdigitalhistory.ca) will walk you through setting up your notebook and fail log.
 
 Because of the compressed schedule of a summer course, work that is submitted late will be considered **not completed**; you will have a get-out-of-jail-card-free for ONE module's work only. IE, for whatever reason, you couldn't get module 3 done nor module 4. You soldier on and submit late either module 3 OR module 4, selecting the better of the two and invoke the card with an email to me. Note that it is always possible to consider why things haven't come together in one's notebook.
+
+Students should contact Dr. Graham if they are late due to illness or other exigency. 
 
 ## Schedule and due dates
 
@@ -153,3 +146,59 @@ These modules are built around the following ideas:
 - Model best practices in open access data management as mandated by SSHRC and other research agencies
 - Develop an online scholarly voice to contribute data and reflection to the wider digital history community
 
+## Calculating grades
+
+If you have demonstrated to me that you have satisfactorily met the criteria detailed above in the rubric (which map to the learning objectives for this course), you will receive an A. If you demonstrate that you have satisfied four of the five criteria, then you will receive a B. Three of the five: a C. Two of the five: a D. One of the five: an F.
+
+Note that 'satisfactorily' meeting the criteria means completing *all* of the work that I have set for you. BUT, note also that you have the power to determine **how much** work that actually is, **provided that you can justify why you haven't pushed further**. That is, I will look at your fail logs and your notebooks to determine whether or not the module exercises were challenging for you. It is thus in your best interest to keep careful and complete fail logs and notebooks as you do both the modules AND your final project. I can only grade **where the evidence exists**.  
+
+In exceptional cases, where the work completed goes above and beyond, an A+ may be possible.
+
+We all come to digital work with differing degrees of digital literacy. By framing assessment as 'satisfactory' I recognize that each of you are different, and I assess you against your own starting point and your own growth.
+
+You will receive feedback and be in communication with me and with our TA throughout the course; our feedback will help you grow.
+
+The final project is assessed against the same criteria as the coursework. Community participation is assessed through your substantive and generous collaboration via the annotations and in the Slack.
+
+### The process of grading coursework
+
+_Here are the instructions I give to my TAs on how we grade._ 
+
+We are looking to see, in each week, that the students have
+
++ done all the required work as listed in the workbook
++ done the work in a substantive manner
+
+Each week, we leave comments on posts, and we reply to annotations. By Wednesday we need to provide written feedback via email, explaining what is satisfactory and nudging where things can be improved, and where we also link to where we have responded to the student.
+
+Our feedback each week should encourage dialogue with the student, and be framed within the criteria 1 - 5 below. Keep an eye out for evidence that the students are collaborating, and that they are responding in a meaningful way to each other's work.
+
+ALL COURSE WORK HAS TO BE COMPLETED, AND ALL WORK HAS TO BE SATISFACTORY, TO GET AN A
+
+We can nudge students to complete things, when we note that they are missing. We can also be human, and adjust accordingly, in special cases.
+
+We do not require students to 'prove' illness, or other issues. We will take them at their word.
+
+What constitutes 'satisfactory' work? Satisfactory work demonstrates that the student:
+
+1 Understands how to use the idea of ‘the productive fail’ to use computing power effectively as an historian.
+
+2 Understands, plans, and employs concepts of computational reproducibility in the service of history.
+
+3 Employs web tools to build history in public, collegially.
+
+4 Weighs the evidence appropriately, understanding how it was created, in order to communicate the compelling story.
+
+5 Understands the ways digital tools change us as we use them, to create compelling history that is self-reflexive.
+
+Not every one of these criteria apply to each week or module; in aggregate, at the end, all must be present in the body of work that the students have produced over the course.
+
+In the tracking spreadsheet, you simply tick off whether or not the student has done the work, entering a 1 or 0 in the column as appropriate.
+
+** Final grade for coursework **
+
+Missing module work reduces the grade.
+
+Work that is completed, but is done in a perfunctory manner, similarly reduces the grade (as it isn't satisfactory).
+
+Work that is above and beyond the call of duty can be graded upwards.

@@ -13,15 +13,26 @@ Across the top of the screen are buttons that allow you to change the site theme
 
 #tl;dr {-}
 
-Each week, you do exercises designed to teach you the steps of working with digital data in history, and you read articles, examine projects, and study examples of digital history in the wild. You annotate these readings etc, and you keep a 'fail log' and a lab notebook on the exercises. At the end of each week, you submit the links to your annotations, your fail log entries, and your notebook.
+_Precludes additional credit for HIST 3907 Section "B" offered in winter 2015 and HIST 3907 Section "O" offered in winter 2016._
+
+Each week, you do exercises designed to teach you the steps of working with digital data in history, and you read articles, examine projects, and study examples of digital history in the wild. You annotate these readings etc, and you keep a 'fail log' and a lab notebook on the exercises. You chat with each other in our Slack space, support each other, help each other reach further - you build community. At the end of each week, you submit the links to your annotations, your fail log entries, and your notebook.
 
 I will give you your own domain space (webspace) with which you may do as you please: ideally, this will be where you set up and host your fail log, lab notebook, and other work. Treat this as a serious space on the internet that advertises your abilities as a historian. 
 
 I will give you a dataset which you will explore/analyze with the tools you have learned. This analysis will be written up and made available on the open web as a final project. If your computer is not that powerful or otherwise less-than-optimal, I also have a virtual computing environment which you can use through your browser.
 
-You are **encouraged** to collaborate with one another, but make sure you acknowledge all and any collaboration. The social space for our course will be hosted on Slack (Slack.com). All necessary logins, passwords, and other getting-started parphernalia will be provided to you in the first week of class.
+You are **encouraged** to collaborate with one another (community!), but make sure you acknowledge all and any collaboration. The social space for our course will be hosted on Slack (Slack.com). All necessary logins, passwords, and other getting-started parphernalia will be provided to you in the first week of class.
 
-Grading is based on the satisfactory completion of **all** course work, from annotations to the final project. Grading takes into account your starting point versus your finishing point. That is to say, I take into account your *progression* as a digital historian. Thus, the actual work that constitutes an 'A' for one student could look quite different for another student. You are thus in control of your own destiny in the course. You do not need to be techy. That will come.
+Grading is based on the satisfactory completion of **all** course work, from annotations to the final project to community participation. Grading takes into account your starting point versus your finishing point. That is to say, I take into account your *progression* as a digital historian. Thus, the actual work that constitutes an 'A' for one student could look quite different for another student. You are thus in control of your own destiny in the course. You do not need to be techy. That will come.
+
++ Coursework: 65%
++ Final Project: 20%
++ Community: 15%
+
++ All work indicated in each section of the workbook under 'What you need to do each week' has to be completed.
++ All work has to be completed to a satisfactory level, per the criteria below.
+
+Students should contact me if they are unable to complete coursework due to illness and so on.
 
 The talk below was given to a group of 30 professional academics, archaeologists, and heritage professionals. It will give you a good idea of what I am like, and where I am coming from in terms of my expectations for digital work from students. Fast forward to 4.06m to start.
 
