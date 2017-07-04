@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.24)  26 JUN 2017 11:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.24)  4 JUL 2017 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -964,33 +964,33 @@ Chapter 4.
 <images/dhbox.png, id=388, 1185.42876pt x 770.88pt>
 File: images/dhbox.png Graphic file (type png)
 <use images/dhbox.png>
-Package pdftex.def Info: images/dhbox.png used on input line 1106.
+Package pdftex.def Info: images/dhbox.png used on input line 1107.
 (pdftex.def)             Requested size: 469.74959pt x 305.47644pt.
 <images/dhboxsignup.png, id=389, 1253.68375pt x 656.4525pt>
 File: images/dhboxsignup.png Graphic file (type png)
 <use images/dhboxsignup.png>
-Package pdftex.def Info: images/dhboxsignup.png used on input line 1114.
+Package pdftex.def Info: images/dhboxsignup.png used on input line 1115.
 (pdftex.def)             Requested size: 469.74767pt x 245.96875pt.
 <images/dhboxlogin.png, id=390, 1141.26375pt x 515.9275pt>
 File: images/dhboxlogin.png Graphic file (type png)
 <use images/dhboxlogin.png>
-Package pdftex.def Info: images/dhboxlogin.png used on input line 1129.
+Package pdftex.def Info: images/dhboxlogin.png used on input line 1130.
 (pdftex.def)             Requested size: 469.74966pt x 212.35825pt.
 <images/dhboxreturnfindapps.png, id=391, 1030.85126pt x 265.99374pt>
 File: images/dhboxreturnfindapps.png Graphic file (type png)
 <use images/dhboxreturnfindapps.png>
-Package pdftex.def Info: images/dhboxreturnfindapps.png used on input line 1138
+Package pdftex.def Info: images/dhboxreturnfindapps.png used on input line 1139
 .
 (pdftex.def)             Requested size: 469.74588pt x 121.20998pt.
 <images/dhbox-apps.png, id=392, 1136.245pt x 597.23125pt>
 File: images/dhbox-apps.png Graphic file (type png)
 <use images/dhbox-apps.png>
-Package pdftex.def Info: images/dhbox-apps.png used on input line 1148.
+Package pdftex.def Info: images/dhbox-apps.png used on input line 1149.
 (pdftex.def)             Requested size: 469.76443pt x 246.91681pt.
 <images/dhboxcommandline.png, id=393, 750.805pt x 340.27126pt>
 File: images/dhboxcommandline.png Graphic file (type png)
 <use images/dhboxcommandline.png>
-Package pdftex.def Info: images/dhboxcommandline.png used on input line 1158.
+Package pdftex.def Info: images/dhboxcommandline.png used on input line 1159.
 (pdftex.def)             Requested size: 469.7675pt x 212.90265pt.
 [25] [26 <./images/dhbox.png> <./images/dhboxsignup.png>] [27 <./images/dhboxlo
 gin.png> <./images/dhboxreturnfindapps.png>] [28 <./images/dhbox-apps.png> <./i
@@ -1010,17 +1010,17 @@ Chapter 7.
 
 ]
 Chapter 8.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1518.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1519.
 [37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1518.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1519.
 (./craftingdigitalhistory2017.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1518.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1518.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1519.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1519.
 
 Package rerunfilecheck Info: File `craftingdigitalhistory2017.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: EC78A146CEF12BCDDE7F30F694D8194F;6346.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1518.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1519.
  ) 
 Here is how much of TeX's memory you used:
  12696 strings out of 494501
@@ -1039,7 +1039,7 @@ exmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2015basic/texmf-d
 ist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015basic/texmf-dist/f
 onts/type1/public/lm/lmri12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/
 type1/public/lm/lmro10.pfb>
-Output written on craftingdigitalhistory2017.pdf (37 pages, 1568229 bytes).
+Output written on craftingdigitalhistory2017.pdf (37 pages, 1568027 bytes).
 PDF statistics:
  540 PDF objects out of 1000 (max. 8388607)
  473 compressed objects within 5 object streams

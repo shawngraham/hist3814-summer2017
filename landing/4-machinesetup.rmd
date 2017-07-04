@@ -4,7 +4,7 @@ The [workbook, 'getting yourself ready'](http://workbook.craftingdigitalhistory.
 
 Since you all are coming to this class with differing levels of digital literacy, different computers, and different operating systems, I have standardised things by putting together a virtual computer for you called 'DHBox' ('digital humanities box'). 
 
-You access it through your webbrowser, at [this location](http://134.117.26.132:5000/). The chrome browser works best with our DHBox. **If you are not on campus, you must [Carleton's VPN service](http://carleton.ca/its/vpn/) to log into the DHBox**. The link will not work unless you are either on campus or connected to campus via the VPN. If you click on the link to our DHBox and nothing happens, you need to follow the link to the Carleton VPN, install the vpn, connect, and _then_ follow the link.
+You access it through your webbrowser, at [this location](http://134.117.26.132:5000/). The chrome browser works best with our DHBox. **If you are not on campus, you must [Carleton's VPN service](https://carleton.ca/its/help-centre/page-type/vpn/) to log into the DHBox**. The link will **not** work unless you are either on campus or connected to campus via the VPN. If you click on the link to our DHBox and nothing happens, you need to follow the link to the Carleton VPN, install the vpn, connect, and _then_ follow the link.
 
 ![The welcome screen for DHBox. Note the complete url.](images/dhbox.png)
 
