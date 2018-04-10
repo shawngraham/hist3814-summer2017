@@ -1,41 +1,39 @@
 # Final Project
 
-Your final project is to craft an original work of digital history. That is:
+We do not have much time to build entirely from scratch. Therefore, since replicability and reproducibility are _virtues_ in digital history we will cap the work in this course in one of two ways. Your final project is to _craft_ or _extend_ a work of digital history. That is:
 
 + You will demonstrate via your project, satisfactory competence and understanding of the five modules in this course 
 
-The actual _form_ of the project is up to you: but the key element is that the form you select should follow the function. Some kinds of analyses are better suited to the visual stylings of an infographic; others would be best explicated using a kind of long-form mixture of text and visuals; still others might be best represented via an interactive map or a hand-held locative app. You might find [inspiration here](http://napa-cards.net/#info).
+## Option One- craft a _new_ work of digital history
 
-The project will revolve around the hastily-scanned editions of the Shawville Equity held in the Quebec Provincial Archives. You can find this data [here](http://collections.banq.qc.ca:8008/jrn03/equity/src/). The [Shawville Equity](http://theequity.ca/) is a weekly newspaper published in Shawville Quebec. It has published continuously since 1883, when it was first published in the county seat, Bryson. 
+Use the data and your results from the module exercises in [the workbook](http://craftingdigitalhistory.ca) concerning the [14th Canadian General Hospital War Diaries](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=2005110&rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106). Identify and tell the compelling story you have found. Host this work on your own domain space. Your data and methods should be fully documented such that someone else could undertake the analysis for themselves. 
 
-Remember:
+The actual _form_ of the project is up to you: but the key element is that the form you select should follow the function. Some kinds of analyses are better suited to the visual stylings of an infographic; others would be best explicated using a kind of long-form mixture of text and visuals; still others might be best represented for instance via an interactive map. You might find [inspiration here](http://napa-cards.net/#info).
+
+## Option Two- extend an _existing_ work of digital history
+
+Here are three previous projects completed in previous (longer) versions of this course. Study the author's work, identify weak points (both in terms of the digital, and the historiographic), fork the source and then identify and 'fix' the weaknesses as best as you are able. Include a 'coda' to _your version_ explaining the weaknesses in the original, and how you addressed them, and what other data or techniques you pulled in, and what someone in the future might choose to extend themselves.
+
++ [Ryan Pickering's 'OK Google: Residential Schools](https://ryanpickering.github.io/Residential-School-Online-Response/)
++ [Sarah M Cole's 'What Do You Do For Fun Around Here?](https://sarahmcole.ca/hist3814o/final-project-what-do-you-do-for-fun-around-here-a-chat-about-social-life-in-pontiac-county-1895/)
++ [Sebastian Mol's 'A Mapping of Canada's Wartime Atomic History'](https://sebastianmol7.github.io/daea/)
+
+
+## Reminder
 
 The final project will have two parts:
 
-+ an analysis (a work of digital history) of the provided digital dataset using at least two or more techniques/tools that you learned in the exercises. This analysis has to be available on the web, with your data and methods fully documented such that someone else could undertake the analysis for themselves.
++ the first part is from the options chosen above
 
-+ a ‘paradata’ essay (or video, or other digital form) that reflects on your growth as a historian over the term with reference to the analysis in 1.
-nb the final project may be submitted at any time up to midnight on the very last day of the course. Since the work will live on the web, you submit by sending me an email with ‘Final Project HIST3814o - submitted’ as the subject. I will make an archival copy of that project the following day. More information on the final project will be provided below.
-
-## Data/Capta
-
-Johanna Drucker exhorts us to remember that 'data' are actually 'capta', that is, they are not 'things given', but rather 'things captured', as it were. (I will use the two terms interchangeably, depending on my mood). With regard to The Equity: How was this data captured? By what process? To what end? Who paid? _Cui bono_?
-
-## Analysis
-
-You will learn of a number of tools, techniques and approaches to working with capta over the duration of this class. Your project should use at least one of these analytic or exploratory tools in a manner that is suitable given the source data. You will have to think about what the choice of tool does to the kind of story you can tell. Your analysis must be grounded in the appropriate secondary literature for the period/issue. It is **critical** that you use your open notebook and your research narrative to document what you are doing and why. This will enable you to write the accompanying **paradata** document.
++ the second part is a short 500 word post (or video, or other digital form where '500 words' gives you an indication of relative effort involved) that reflects on your growth as a historian over the term with reference to the analysis in part one. Identify your greatest weakness and greatest strength that you have discovered as a result of taking this course.
 
 You will **share** your final project and all _ancillary files_ by keeping them in a repository in your github space; the final project will be mounted in your own domain. **You will submit your final work to me by sending me the URL via an email with 'Final Project HIST3814o - submitted' as the subject.**
-
-## Visualization
-
-See the tools and techniques in the final two modules of the [workbook](http://workbook.craftingdigitalhistory.ca) for inspiration; make sure your visual styling supports the key themes and ideas your research is exploring.
 
 ## Length
 
 In this context, to speak of 'length' makes no sense. Page numbers and word counts do not scholarship make. In years past, students have submitted everything from long form graphically enhanced essays, to interactive maps, to videos, to posters. To know if you're 'done', ask yourself:
 
-*   Have I stated my key questions/provocations well?
+*   Have I stated my key questions/provocations well? or, Have I identified the relative strengths and weaknesses?
 *   Are my arguments grounded in appropriate secondary literature?
 *   Have I described my methods well enough that someone else could reproduce them?
 *   Have I explored the nature of my data/capta and thought through the implications?
@@ -44,23 +42,7 @@ In this context, to speak of 'length' makes no sense. Page numbers and word coun
 *   Do I have all my sources (including data & code) cited? Use Harvard author:date style.
 *   Have I documented the paradata?
 
-If the answer is 'yes' to all of the above, then you are done.
-
-## Shortcuts
-
-Many digital projects make their code available on Github. You don't have to reinvent the wheel: you merely have to cite it! So google around 'digital history project', and see what people are doing. Keep an eye out for 'how did they do that', a tag that will lead you to videos, walkthroughs, and other useful items. Indeed, the 'how did they do that' is starting to become a recognized academic genre of writing, see for instance the [DHCommons Journal](http://dhcommons.org/journal/issue-1/how-did-they-make-adams-timeline)
-
-## Project Management
-
-Following Appleford, Simon, and Jennifer Guiliano, 'Best Practice Principles Of Designing Your First Project.' DevDH.org, 2013, [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/), the components of a project are the:
-
-1\. the question, problem, or provocation
-2\. sources (primary, secondary)
-3\. analytical activity
-4\. audience
-5\. product
-
-Note that 4, audience, comes before 5, product. You **must** think of your reader! Yes, in the first instance, I am the most important reader of your work as I am the one in charge of the gradebook. But that is actually a secondary consideration. Given your data, given your analytic approach, who would most likely be interested in your material? If you were trying to produce an infographic about the debates surrounding the BNA of 1867 for high school classroom use, your use of language, graphics, and colour etc could be very different than if you were just trying to convince **me.**
+If the answer is 'yes' to all the relevant questions, then you are done.
 
 **Remember: your project work is public.* Design & write accordingly.**
 

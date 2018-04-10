@@ -27,21 +27,26 @@ These objectives map against the criteria for your coursework and final project 
 
 Over the course of the term, you will produce different pieces of work that speak to these different criteria:
 
-1. online fail logs to keep track of what you actually *do* at your computer
-2. online notebooks that tell the story of what you did, and why, and what you did about it when things didn't work
-3. web annotations of each others' logs/notebooks, and of the readings, and responding to others' annotations
-4. storytelling and engagement with the data, its limitations and its strengths
-5. your growth as a historian over this course.
+Criterion 1: online fail logs to keep track of what you actually *do* at your computer
+
+Criterion 2: online notebooks that tell the story of what you did, and why, and what you did about it when things didn't work
+
+Criterion 3: web annotations of each others' logs/notebooks, and of the readings, and responding to others' annotations
+
+Criterion 4: storytelling and engagement with the data, its limitations and its strengths
+
+Criterion 5: your growth as a historian over this course.
 
 ## Weekly work
 Each week, you will complete (with certain caveats, as detailed in the [workbook](http://workbook.craftingdigitalhistory.ca))
 
 1. exercises **that are appropriate to your tech level**. How do you know if it was appropriate? If the exercise was easy, then you do the next one. You *push* yourself until you get to the point where you are stumped. You will keep a fail log and an online notebook for the exercises. The point here is not to stump you, but to push you from your current comfort level.
+
 2. collaborative reading assignments, which you will demonstrate that you have done via collaborative web annotations of either the fail logs, notebooks, or assigned readings. Exercises are organized by modules, and the sequence of modules reflects the sequence of doing digital history.
 
 **nb** there must be evidence from each module that you have fully engaged with the exercises and the collaborative reading. How to demonstrate this evidence will be covered below. A checklist of what should be completed by when is provided below. Work **must** be completed in a timely manner. Follow, and keep to, the schedule. 
 
-### More about the fail log and notebook
+### More about the fail log (process notes) and notebook (blog posts)
 You will keep the fail log in a repository on **Github** that details the work you do for each module. What can go into this? Everything and anything. Files you create. Notes you make to yourself on how to use a particular tool. Random thoughts as they occur. [Here is an example for you to refer to](https://github.com/shawngraham/example-faillog-hist3814).
 
 I call it a 'fail log' because more often than not, things don't work at first. We learn by trying, by failing productively, as it were. In essence, there are many ways to craft digital history; you need to leave yourself breadcrumbs so that you can return to a project after a hiatus and know what it was you were doing/thinking at the time. Caleb McDaniel calls this [open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html) and you should read that post of his before going any further. FYI, here's my own repository for my research: [http://github.com/shawngraham](http://github.com/shawngraham).
@@ -68,19 +73,11 @@ The final project will have two parts:
 
 **nb** the final project may be submitted at any time up to midnight on the very last day of the course. Since the work will live on the web, you submit by sending me an email with 'Final Project HIST3814o - submitted' as the subject. I will make an archival copy of that project the following day. More information on the final project will be provided below.
 
-**There is no midterm.**
+**There is no midterm. There is no final exam.**
 
-Detailed instructions for the Final Project [may be found here](final-project-1.html). Your final project will take as its source material some 1500 editions of The Shawville Equity, an English newspaper published in Western Quebec, from 1883 to the present day. Begin thinking now about the kinds of history or the historical questions for which such information might be suitable.
+**It is OK if your final project doesn't come together in the way you initially expected**. I recognize that sometimes, a project fails to come together. I believe in '[productive failure](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology)', where we learn from what works and what doesn't work. **I want to explicitly signal to you that it is safe to try something here that might not get to where you want it to go - and that's ok**. As long as you discuss honestly and without flinching what worked, what didn't, why that was, and what you need to know or do moving forward, you stand a very good chance indeed of meeting the requirements of this class.
 
-Paradata' is a description of the 'how' and 'why' of what you're doing (see also the 'when things go wrong' section on the [detailed instructions](final-project-1.html)). A formal discussion of what paradata do from the [London Charter](http://www.londoncharter.org/introduction.html):
-
->Documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of computer-based visualisation should be disseminated in such a way that the relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes can be understood.
-
-Your paradata document should have the following sections ([as discussed in the London Charter](http://www.londoncharter.org/principles.html)):
-
->Implementation; Aims and Methods; Research Sources; Documentation; Sustainability; and Access
-
-My strategy here is two-fold. I recognize that sometimes, a project fails to come together. I believe in '[productive failure](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology)', where we learn from what works and what doesn't work. **I want to explicitly signal to you that it is safe to try something here that might not get to where you want it to go - and that's ok**. As an example, let me share with you '[How I lost the crowd](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/)', a piece where a public digital history work of my own fell to pieces - and how I salvaged worth from it. (As an example of 'paradata' it's not strictly speaking as formal as I want from you.)
+As an example, let me share with you the post-mortem of my very first digital history project I did when I joined Carleton, '[How I lost the crowd](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/)', a project that imploded - and how I salvaged worth from it. 
 
 ## Real Names Policy ##
 
@@ -106,26 +103,24 @@ Students should contact Dr. Graham if they are late due to illness or other exig
 
 ## Schedule and due dates
 
-This course runs from July 4th to August 16th.
-Weekly reports due by Midnight, Sunday.
+This course runs from May 7 to June 19, 2018
+Weekly reports due by Midnight, Monday
 
-- July 4 - 9: Getting Up and Running. Complete 'Getting Started' in the Workbook.
-- July 10 - 16: Module 1 Open Access Research
-- July 17 - 23: Module 2 Finding Data
-- July 24 - 30: Module 3 Fixing Data
-- July 31 - Aug 6: Module 4 analysis
-- Aug 7 - Aug 13: Project Work & Visualization
-- Aug 16th, midnight: submit final project
+- May 14: Getting Up and Running. Complete 'Getting Started' in the Workbook.
+- May 21: Module 1 Open Access Research (May 21st is a holiday; work can come in until 9 am May 22nd)
+- May 28: Module 2 Finding Data
+- June 4: Module 3 Fixing Data
+- June 11: Module 4 analysis
+- June 19: Final Project Work
 
 ### Overview of work to be done/submitted
 
 + Getting Started: Setup, Initial blog post, Annotations		
-+ Module 1: Blog post re readings, blog post re exercises, Fail logs, Annotations
-+ Module 2: Blog post re readings, blog post re exercises, Fail logs, Annotations
-+ Module 3: Blog post re readings, blog post re exercises, Fail logs, Annotations
-+ Module 4: Blog post re readings, blog post exercises, Fail logs, Annotations
-+ Module 5:	Final Blog Post			
-+ Final Project: Paradata document,	Project repo, Project itself	
++ Module 1: Blog post re readings & blog post re exercises, Fail logs, Annotations
++ Module 2: Blog post re readings & blog post re exercises, Fail logs, Annotations
++ Module 3: Blog post re readings & blog post re exercises, Fail logs, Annotations
++ Module 4: Blog post re readings & blog post exercises, Fail logs, Annotations
++ Final Project: Personal Reflection,	Project repo, Project itself	
 
 ## Workbook structure
 
@@ -195,7 +190,7 @@ Not every one of these criteria apply to each week or module; in aggregate, at t
 
 In the tracking spreadsheet, you simply tick off whether or not the student has done the work, entering a 1 or 0 in the column as appropriate.
 
-** Final grade for coursework **
+**Final grade for coursework**
 
 Missing module work reduces the grade.
 

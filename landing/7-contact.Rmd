@@ -1,0 +1,29 @@
+# Contact Details
+
+## Shawn Graham
+Associate Prof of Digital Humanities, on Twitter [\@electricarchaeo](http://twitter.com/electricarchaeo)
+
+- research blog at [electric archaeology](http://electricarchaeology.ca)
+- open notebook at [shawngraham.github.io](http://shawngraham.github.io)
+- things I've written according to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=IU6usq8AAAAJ)
+- office at PA 406
+- email at shawn dot graham at carleton dot ca
+- Office hours by chance or arrangement
+
+In our Slack channel, you can always send me a direct message. That is probably the most efficient (and preferred) way for you to contact me. Within Slack, we can set up instant video chats - simply type /appear roomname where roomname can be whatever you want (it acts like a location for our conversation), when we are both online. Othertimes, I might put together large-scale real-time video conferencing; for that I will use tools in cuLearn and I will advise you of the same. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaSblM-Qz3A" frameborder="0" allowfullscreen></iframe>
+
+## About this site
+This site is generated from static text files using the [Bookdown](https://bookdown.org) site generator package.
+
+Icons are from the [Noun Project](https://thenounproject.com/):
+
+- 'Designer' by Marie Van den Broeck from the Noun Project
+- 'Lock', by Jafri Ali
+- 'Robot', by Rutmer Zijlstra
+
+Other Images
+
+- 'Inspiration' Screenshot from Google Search Results
+- 'Hand Knitted Laptop' by [KateMonkey](https://www.flickr.com/photos/katemonkey/5665916936)
