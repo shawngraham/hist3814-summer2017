@@ -1,5 +1,5 @@
 ---
-title: "Course Manual for Crafting Digital History \n HIST3814 @ Carleton U \n Summer 2017"
+title: "Course Manual for Crafting Digital History \n HIST3814 @ Carleton U \n Summer 2018"
 author: "Shawn Graham"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
@@ -15,7 +15,9 @@ cover-image: images/pig.gif
 ---
 # Welcome {-}
 
-This website serves as the course manual and syllabus for HIST3814, Summer 2017 at Carleton University. Non Carleton students are welcome to enrol via [eCampusOntario](http://ecampusontario.org), whose funding support for the development of this course is gratefully acknowledged.
+Precludes additional credit for HIST 3907 Section "B" offered in winter 2015 and HIST 3907 Section "O" offered in winter 2016.
+
+This website serves as the course manual and syllabus for HIST3814, Summer 2017 at Carleton University. Non Carleton students are welcome to enrol via [eCampusOntario](http://ecampusontario.org), whose funding support for the development of this course is gratefully acknowledged. The [workbook](http://workbook.craftingdigitalhistory.ca) for this course is by Shawn Graham and Rob Blades.
 
 ![British Library Flickr stream. ‘A screen-maker, possibly of the Dumna caste.’ Tashrih al-aqvam, an account of origins and occupations of some of the sects, castes and tribes of India https://www.flickr.com/photos/britishlibrary/12459538774/](images/loom.jpg)
 

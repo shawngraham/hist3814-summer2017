@@ -1,25 +1,56 @@
-#First Things First
+#First Things First {-}
 Taught by Shawn Graham, this course introduces method and theory for digital history. This site acts as the course handbook and syllabus. READ EVERYTHING. 
 
-The workbook may be found at the workbook page. Contact info for Dr. Graham is [here](8-contact.rmd). 
+The workbook, by Shawn Graham and Rob Blades, may be found at the [workbook site](http://workbook.craftingdigitalhistory.ca). Contact info for Dr. Graham is [here](contact-details.html). 
 
 How do we find, analyze, and visualize the patterns in historical data? Is the internet a historical source? How do people talk about history online? Is Google changing our historical consciousness? What happens when people off-load their historical memory to Wikipedia? How do we regain control over our digital identity as historians? What does open access research mean for me? What happens when digital memory is under assault?
 
 Through a series of skill-building exercises and collaborative work, we will build our way towards some answers.
 
-Oh, that tool bar on the right of the screen? That lets you annotate this site with questions and observations. Highlight THIS PHRASE right now, select 'annotate' and leave a note introducing yourself! Then, as you read the syllabus, annotate those parts that excite you, or puzzle you. Respond to others' posts. This is part of the first weeks' work.
+Oh, that tool bar on the right of the screen? That lets you annotate this site with questions and observations (it's called 'Hypothes.is'). The idea with this tool is that as you read the syllabus, you can annotate those parts that excite you, or puzzle you - and see where others are interested as well. Respond to others' posts. You'll need to create a userid and login for Hypothes.is. (We discuss what you need to install and set up in the [getting started](https://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) section.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjSpol-oPm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Across the top of the screen are buttons that allow you to change the site theme, to ease readability; also, there are download buttons for a PDF and Epub version of this manual, for printing out or reading offline if you desire. Finally, there is an edit button that allows you (once you have a [Github](http://github.com) account) to take a copy of this site for your own remixing.
 
-#Course Philosophy
+#tl;dr {-}
 
-Increasingly, numerous historical documents making massive amounts of data are being put online. But, once that material is online, we face a question of ‘so what?’ This course will give you the digital research and data management skills and reflexive theoretical grounding to answer the ‘so what’. As digital historian Adam Crymble writes, ‘We’ve spent millions digitizing the world’s historical resources. Let’s work together to figure out what they can teach us’.
+_Precludes additional credit for HIST 3907 Section "B" offered in winter 2015 and HIST 3907 Section "O" offered in winter 2016._
+
+Each week, you do exercises designed to teach you the steps of working with digital data in history, and you read articles, examine projects, and study examples of digital history in the wild. You annotate these readings etc, and you keep a 'process notes' and a blog/notebook on the exercises. (I sometimes call the 'process notes' the 'fail log' because it is a log of everything you've tried, the commands you've typed, the places you went looking for answers). Each week you distill what you've done, the challenges you've faced or have yet to surmount into your blog. (I sometimes call this the 'notebook'). These are like letters to your future self in that, in digital history, you are constantly trying to figure out why 'past you' made the decisions she made, or where she put the data she wrangled. It makes life *so much easier* when these posts are thoughtfully written. Each week, you chat with each other in our Slack space, support each other by reading each other's notebooks and process notes and leaving annotations there, and you help each other reach further - you build community. At the end of each week, you submit the links to your fail log entries, and your notebook. Your annotations will be automatically aggregated onto a page on your blog (see [getting started](https://workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/)) and I will look for those as well.
+
+I will give you your own domain space (webspace) with which you may do as you please: this will be where you set up and host your fail log (process notes), blog (lab notebook), and other work. Treat this as a serious space on the internet that advertises your abilities as a historian. 
+
+I will give you datasets which you will explore/analyze with the tools you have learned. This analysis will be written up and made available on the open web as a final project. If your computer is not that powerful or otherwise less-than-optimal, I also have a virtual computing environment which you can use through your browser.
+
+You are **encouraged** to collaborate with one another (community!), but make sure you acknowledge all and any collaboration. The social space for our course will be hosted on Slack (Slack.com). All necessary logins, passwords, and other getting-started parphernalia will be provided to you in the first week of class.
+
+Grading is based on the satisfactory completion of **all** course work, and your degree of engagement with our digital history community. Grading takes into account your starting point versus your finishing point. That is to say, I take into account your *progression* as a digital historian. Thus, the actual work that constitutes an 'A' for one student could look quite different for another student. You are thus in control of your own destiny in the course. You do not need to be techy. That will come.
+
++ Coursework: 65%
++ Final Project: 20%
++ Community: 15%
+
++ All work indicated in each section of the workbook under 'What you need to do each week' has to be completed.
++ All work has to be completed to a satisfactory level, per the criteria below.
+
+Students should contact me if they are unable to complete coursework due to illness and so on.
+
+The talk below was given to a group of 30 professional academics, archaeologists, and heritage professionals. It will give you a good idea of what I am like, and where I am coming from in terms of my expectations for digital work from students. Fast forward to 4.06m to start. As anyone who has taken [HIST3812](https://shawngraham.github.io/hist3812w18/) could tell you, I **really value productive failure**. In the talk below, I explain what this means. You really should take the time to watch this talk.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo_QQl22Uhg" frameborder="0" allowfullscreen></iframe>
+
+NOW READ ON...
+
+#Course Philosophy 
+
+Increasingly, numerous historical documents making massive amounts of data are being put online. But, once that material is online, we face a question of ‘so what?’ This course will give you the digital research and data management skills and reflexive theoretical grounding to answer the ‘so what’. As digital historian [Adam Crymble](http://adamcrymble.org/) writes, ‘We’ve spent millions digitizing the world’s historical resources. Let’s work together to figure out what they can teach us’.
 
 <iframe src="https://www.youtube.com/embed/-sAuoRQgBh0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
 This course is about crafting digital history, about data mining documents, about reading distantly thousands of documents at once, about graphing/mapping/visualizing what we find, and working out how to best communicate those findings. It is about writing history in digital media, which are primarily visual media. Thus, we will learn how to scrape data, how to find meaningful patterns within it, and how to visualize (via websites or infographics) those results. Readings will be from relevant literature in the field (mostly open access).
 
-Things will go wrong. Stuff will break. You will be frustrated. This will not be easy, but it will be rewarding if you stick it out.
+**Things will go wrong. Stuff will break. You will be frustrated. This will not be easy, but it will be rewarding if you stick it out.**
 
 You won't have taken a course like this before.
 
@@ -33,9 +64,9 @@ This course is not easy. It has no multiple choice tests, no assignments that yo
 - able to collaborate with others in a transparent manner, giving credit where credit is due;
 - committed to working through in public the problems and potentials of digital history;
 
-If this sounds like you, or someone you are willing to become, then you will be ok. Now that you’ve got this far, please make sure to complete the ‘[pre class questionnaire](/questionnaire)’. Now, read on...
+If this sounds like you, or someone you are willing to become, then you will be ok.
 
-#On Craftiness
+## On Craftiness
 
 <img src="images/inspiration.png" style="PADDING-RIGHT: 5px"align="left">Great art comes from inspiration. Technical skill, yes of course. But 'inspiration' - the divine breath. Science? Science requires hard work and graft. Careful observation, attention to detail, replication, routine and method. Carefully record everything, and someone else could (should be able to) replicate it. Yes, there is insight and eureka moments, but we can agree that art and science are at different points along the continuum. So what of craft? I know a man who is astonishingly good at wood working. He will stand there, quietly, while he contemplates a piece of wood. Then, without a word, he begins to work with it. He sees the grain, and can feel how the piece is going to go. The materials can be guided, but they push him as much as he pushes them. The resulting piece can be typed - 'Oh, you make a shaker-style chair' - but, in its own quiet way, it is unique.
 
@@ -45,9 +76,7 @@ My own practice lately has been blurring between visualization/sonification and 
 
 ## A question to start with: do I need to be techy?
 
-How do we find, analyze, and visualize the patterns in historical data? Is the internet a historical source? How do people talk about history online? Is Google changing our historical consciousness? What happens when people off-load their historical memory to Wikipedia? How do we regain control over our digital identity as historians? What does open access research mean for me?
-
-Crafting Digital History explores these questions and more over the term through a series of hands-on exercises and project work. You do not need to be ‘techy’ to succeed in this course. I know that digital skills come in all shapes and sizes - I grade how far you've *come*, not where you **get to**. What is far more important than being 'techy' is that you are willing to try, and willing to say ‘I don’t know – help?’ I expect you to talk to each other in this class. Share your work. Collaborate. Help each other!
+You do not need to be ‘techy’ to succeed in this course. I know that digital skills come in all shapes and sizes - I grade how far you've *come*, not where you **get to**. What is far more important than being 'techy' is that you are willing to try, and willing to say ‘I don’t know – help?’ I expect you to talk to each other in this class. Share your work. Collaborate. Help each other!
 
 I sometimes talk about 'failing in public'. That is to say, we talk about and critically examine the things that work, and the things that didn't. 'Fail' in this context doesn't mean the end of the road: rather it's just one stage in a productive cycle of learning, experimenting, and community building that makes digital history one of the most exciting fields to work in.
 
